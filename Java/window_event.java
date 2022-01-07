@@ -21,7 +21,7 @@ class Mywindow extends Frame implements WindowListener{
     
     public void windowClosing(WindowEvent e) {
         l.setText("Window Closing");
-        System.exit(0);
+        System.exit(0);  //this is to close the window by saying system to exit with no error
     }
     
     public void windowClosed(WindowEvent e) {
