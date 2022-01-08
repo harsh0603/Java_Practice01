@@ -1,3 +1,29 @@
+
+
+// We use the Threading in the animation in awt
+
+// Use the Runnable interface in the my class
+
+// use the sleep method to slow the animation
+
+// the animationis done using the cordinates of the x and y value 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 import java.awt.*;
 
 
