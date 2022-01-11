@@ -24,5 +24,6 @@ public class AWT2 {
         MyFrame mt = new MyFrame();
         mt.setSize(400,400);
         mt.setVisible(true);
+
     }
 }
