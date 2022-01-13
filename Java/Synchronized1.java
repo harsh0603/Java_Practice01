@@ -45,8 +45,6 @@
 
 
 
-
-
 class A extends Thread{
     void addnew(int i){
       synchronized(this){
